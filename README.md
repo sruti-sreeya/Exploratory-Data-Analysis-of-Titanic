@@ -5,10 +5,10 @@ Perform exploratory data analysis on the Titanic dataset to discover patterns, t
 
 📂 Project Structure
 
-├── eda_titanic.ipynb         # Jupyter notebook with complete EDA
-├── EDA_Titanic_Report.pdf    # Exported PDF version of the notebook
-├── train.csv                 # Dataset used for analysis
-└── README.md                 # Project overview and instructions
+titanic.ipynb         # Jupyter notebook with complete EDA
+EDA_Titanic_Report.pdf    # Exported PDF version of the notebook
+train.csv                 # Dataset used for analysis
+README.md                 # Project overview and instructions
 
 Dataset: https://www.kaggle.com/c/titanic/data?select=train.csv&utm_source=chatgpt.com
 
@@ -56,16 +56,3 @@ Higher fare passengers tended to survive more (likely in higher classes).
 Pclass and Sex showed strong correlation with survival.
 
 Outliers were present in the Fare column.
-
-❓ Sample Interview Questions Covered
-What is EDA and why is it important?
-
-What plots do you use to check correlations?
-
-How do you handle skewed data?
-
-What are univariate, bivariate, and multivariate analyses?
-
-📬 Contact
-If you have any questions or feedback, feel free to reach out!
-
