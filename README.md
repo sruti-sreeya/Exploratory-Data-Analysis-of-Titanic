@@ -4,8 +4,7 @@
 Perform exploratory data analysis on the Titanic dataset to discover patterns, trends, and correlations among variables and understand the factors affecting passenger survival.
 
 📂 Project Structure
-graphql
-Copy code
+
 ├── eda_titanic.ipynb         # Jupyter notebook with complete EDA
 ├── EDA_Titanic_Report.pdf    # Exported PDF version of the notebook
 ├── train.csv                 # Dataset used for analysis
